@@ -12,7 +12,7 @@ export function Menu (){
             <Link to={"/productos"}>Products</Link>
             <Link to={"/services"}>Services</Link>
             <Link to={"/redirection"}>Redirection</Link>
-            <Link to={"/notfound"}>Error 404</Link>   {/* ESto se queda asi?? */}
+            <Link to={"/notfound"}>Error 404</Link>   {/* Esto se queda asi?? */}
         </nav>
         <nav className={"menu"}>
             {/* isActive es una propiedad de NavLink */}
